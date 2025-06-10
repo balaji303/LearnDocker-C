@@ -1,5 +1,5 @@
 # Container image
-FROM alpine:3.17
+FROM alpine:3.22.0
 
 # Copy script to image
 COPY welcome.c /welcome.c
